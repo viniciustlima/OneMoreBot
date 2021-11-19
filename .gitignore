@@ -14,11 +14,6 @@ node_modules/
 
 # dotenv environment variables file
 .env
-.env.test
-
-# ide configuration
-.vscode/
-.idea/
 
 # configuration files
 config.json
