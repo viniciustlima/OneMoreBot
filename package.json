@@ -1,0 +1,10 @@
+{
+  "name": "OneMoreBot",
+  "version": "1.0.0",
+  "description": "Just another Discord bot that make some things you order",
+  "main": "index.js",
+  "repository": "https://github.com/viniciustlima/OneMoreBot",
+  "author": "viniciustlima <vinitlima2007.14@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
